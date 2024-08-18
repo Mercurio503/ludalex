@@ -1,0 +1,37 @@
+@media screen and (max-width:769px){
+    
+    .titulo{
+        font-size: 40px;
+        font-family: sans-serif;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+     
+    
+    
+   
+}
+@media screen and (max-width:426px){
+    .scroll-section{
+        width: 100%;
+        height: auto;
+    }
+    
+    .p{
+        width: 100%;
+        text-align: center;
+    }
+}
+@media screen and (max-width:320px){
+    .titulo{
+        font-size: 30px;
+    }
+    .p1{
+        font-size: 20px;
+    }
+    .p{
+        font-size: 20px;
+    }
+}
